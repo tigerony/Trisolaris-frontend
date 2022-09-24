@@ -3,8 +3,8 @@
 An open source interface for Trisolaris -- a community-driven decentralized exchange for Aurora and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution -- powered by Aurora.
 
 - Website: [https://www.trisolaris.io/](https://www.trisolaris.io/)
-- Telegram: [TrisolarisLabs](https://t.me/TrisolarisLabs)
-- Discord: [TrisolarisLabs](discord.gg/my6GtSTmmX)
+- Telegram: [TrisolarisLabs](https://t.me/Illia_Butenko)
+- Mail: [TrisolarisLabs](illia.butenko89@gmail.com)
 - Twitter: [@trisolarislabs](https://twitter.com/trisolarislabs)
 
 ## Accessing the Trisolaris Interface
